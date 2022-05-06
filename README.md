@@ -6,15 +6,15 @@ REST API Design Best Practices Handbook with JavaScript, Node.js, and Express.js
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine
+This instruction will get you a copy of this project up and running on your local machine
 
 ### Prerequisites
 
-You need node js installed to your local machine.
+You need [Node JS](https://nodejs.org) installed on your local machine.
 
 ### Installing
 
-Run this command for install all the packages i used:
+Run the followning command to install all the packages:
 
 ```
 yarn
@@ -26,7 +26,7 @@ or
 npm i
 ```
 
-To run the server, use:
+To run the local server:
 
 ```
 yarn dev
